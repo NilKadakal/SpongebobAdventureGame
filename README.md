@@ -22,3 +22,7 @@ Language: Python
 Library: Pygame
 
 Version Control: Git & GitHub
+
+<img width="482" height="599" alt="Ekran Resmi 2026-02-12 13 13 02" src="https://github.com/user-attachments/assets/b80537da-f1be-4a60-82a1-af78bc5dad66" />
+<img width="479" height="596" alt="Ekran Resmi 2026-02-12 13 13 43" src="https://github.com/user-attachments/assets/a1ef931d-53ab-461e-9778-e04c84378640" />
+<img width="479" height="590" alt="Ekran Resmi 2026-02-12 13 13 13" src="https://github.com/user-attachments/assets/100ca43b-07e4-42e5-ad1d-22d28196a709" />
